@@ -1,0 +1,760 @@
+
+html {
+    position: relative;
+    width: 1440px;
+    height: 2585px;
+    background: #F0F0F3;
+    }
+    
+    body {
+      background-color: #F0F0F3;
+    }
+    
+    header {
+      height: 133px;
+    }
+    
+    input {
+      width: 676px;
+      height: 27px;
+      background-color: #F0F0F3;
+      border: none;
+      border-bottom: 1px solid rgba(0,0,0,0.2);
+      font-family: Faktum Test;
+    }
+    .about {
+    position: absolute;
+    width: 265px;
+    height: 20px;
+    left: 870px;
+    top: 43px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    color: #222222;
+    }
+    
+    .shortinf {
+      height: 176px;
+      
+    }
+    
+    .chelname {
+      font-family: Faktum Test;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 75px;
+    letter-spacing: -0.065em; 
+    color: #0063A3;
+    }
+    
+    .microinf {
+      font-family: Faktum Test;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+    }
+    
+    .moreinfo {
+      height: 518px;
+    }
+    
+    #line9 {
+      position: absolute;
+    width: 1366px;
+    height: 1010px;
+    top: 0;
+    left: 37px;
+    right: 37px;
+    opacity: 0.1;
+    
+    border-bottom: 1px solid #000000;
+    }
+    
+    #line10 {
+      position: absolute;
+    width: 1366px;
+    height: 1186px;
+    top: 0;
+    left: 37px;
+    right: 37px;
+    opacity: 0.1;
+    
+    border-bottom: 1px solid #000000;
+    }
+    
+    #line6 {
+      position: absolute;
+    width: 1366px;
+    height: 1359px;
+    top: 0;
+    left: 37px;
+    right: 37px;
+    opacity: 0.1;
+    
+    border-bottom: 1px solid #000000;
+    }
+    
+    #line11 {
+      position: absolute;
+    width: 1366px;
+    height: 1535px;
+    top: 0;
+    left: 37px;
+    right: 37px;
+    opacity: 0.1;
+    
+    border-bottom: 1px solid #000000;
+    }
+    
+    #line5 {
+      position: absolute;
+    width: 1366px;
+    height: 2291px;
+    top: 0;
+    left: 37px;
+    right: 37px;
+    opacity: 0.1;
+    border-bottom: 1px solid #000000;
+    }
+    
+    
+    
+    #logo_photo {
+      position: absolute;
+    width: 63.74px;
+    height: 81px;
+    left: 37px;
+    top: 28px;
+    background-image: url(https://i.ibb.co/zFzNpmn/2022-02-27-121153.png);
+    }
+    
+    #logo {
+    position: absolute;
+    width: 199.51px;
+    height: 52.74px;
+    left: 125.45px;
+    top: 42.56px;
+    font-family: Faktum Test;
+    font-size: 30px;
+    
+    }
+    
+    #letter_M {
+      position: absolute;
+    width: 24px;
+    height: 18px;
+    left: 1284px;
+    top: 39px;
+    font-weight: 700;
+    font-size: 30px;
+    
+    }
+    
+    #foundsay {
+    position: absolute;
+    width: 1443px;
+    height: 184px;
+    left: -31px;
+    top: 133px;
+    
+    font-family: Faktum Test;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 220px;
+    line-height: 87%;
+    /* or 191px */
+    
+    letter-spacing: -0.065em;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    #in_box {
+      position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1242px;
+    top: 44px;
+    
+    background: #0063A3;
+    border-radius: 1px;
+    }
+    
+    #zamoch {
+      position: absolute;
+    width: 14px;
+    height: 16px;
+    left: 1368px;
+    top: 46px;
+    }
+    
+    #triodin {
+      position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1371px;
+    top: 46px;
+    
+    border: 1px solid #222222;
+    box-sizing: border-box;
+    border-radius: 5px 5px 1px 1px;
+    }
+    
+    #tridva {
+    
+    position: absolute;
+    width: 14px;
+    height: 9px;
+    left: 1368px;
+    top: 53px;
+    
+    border: 1px solid #222222;
+    box-sizing: border-box;
+    border-radius: 1px;
+    }
+    
+    #in_I {
+      
+    position: absolute;
+    width: 3px;
+    height: 10px;
+    left: 1246px;
+    top: 51px;
+    
+    background: white;
+    }
+    
+    #in_O {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    left: 1246px;
+    top: 47px;
+    border-radius: 50%;
+    
+    background: white;
+    }
+    
+    #in_N {
+      
+    position: absolute;
+    width: 9px;
+    height: 10px;
+    left: 1250px;
+    top: 41px;
+    color: white;
+    font-size: 20px;
+    font-family: Faktum Test;
+    }
+    
+    #anton {
+      position: absolute;
+    width: 605px;
+    height: 60px;
+    left: 167px;
+    top: 333px;
+    }
+    
+    #chetod {
+      position: absolute;
+    width: 1.5px;
+    height: 20px;
+    left: 1394px;
+    top: 388.44px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: rotate(180deg);
+    }
+    
+    #chetdva {
+    position: absolute;
+    width: 1.5px;
+    height: 12.73px;
+    left: 1398px;
+    top: 385.69px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: rotate(135deg);
+    }
+    
+    #chettri {
+      position: absolute;
+    width: 1.5px;
+    height: 12.73px;
+    left: 1389px;
+    top: 385.69px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+    }
+    
+    #antonphoto {
+        position: absolute;
+        width: 96px;
+        height: 96px;
+        left: 37px;
+        top: 339px;
+        background-image: url(https://i.ibb.co/QpQnw2Y/2022-02-27-114303.png);
+        border-radius: 50%;
+    }
+    
+    #antonmi {
+      
+    position: absolute;
+    width: 267px;
+    height: 53px;
+    left: 167px;
+    top: 419px;
+    }
+    
+    #kavichki1 {
+    position: absolute;
+    width: 96px;
+    height: 80px;
+    left: 6px;
+    top: 473px;
+    color: white;
+    font-size: 300px;
+    font-weight: 700;
+    
+    }
+    
+    #kavtext {
+      position: absolute;
+    width: 576px;
+    height: 518px;
+    left: 167px;
+    top: 532px;
+    
+    font-family: Faktum Test;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    
+    color: #222222;
+    }
+    
+    #jiji-logo {
+    position: absolute;
+    width: 329.44px;
+    height: 232px;
+    left: 869px;
+    top: 532px;
+    
+    background-image: url(https://i.ibb.co/7KW5DDd/2022-02-27-122500.png);
+    }
+    
+    #jiji-title {
+      position: absolute;
+    width: 210px;
+    height: 23px;
+    left: 869px;
+    top: 764px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    
+    color: #222222;
+    
+    }
+    
+    #jiji-dsrpt {
+      position: absolute;
+    width: 320px;
+    height: 188px;
+    left: 869px;
+    top: 797px;
+    
+    font-family: Faktum Test;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    
+    
+    color: #222222;
+    }
+    
+    #jiji-a {
+      position: absolute;
+    width: 200px;
+    height: 28px;
+    left: 869px;
+    top: 896px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    
+    color: #0063A3;
+    }
+    
+    #gabri {
+      position: absolute;
+    width: 378px;
+    height: 60px;
+    left: 167px;
+    top: 1041px;
+    }
+    
+    #gabriphoto {
+      position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 37px;
+    top: 1051px;
+    border-radius: 50%;
+    background-image: url(https://i.ibb.co/xDQdgh3/2022-02-27-124859.png);
+    }
+    
+    #gabrimi {
+      position: absolute;
+    width: 405px;
+    height: 35px;
+    left: 167px;
+    top: 1122px;
+    }
+    
+    #vlad {
+      position: absolute;
+    width: 640px;
+    height: 60px;
+    left: 167px;
+    top: 1217px;
+    }
+    
+    #vladmi {
+      position: absolute;
+    width: 255px;
+    height: 27px;
+    left: 167px;
+    top: 1301px;
+    }
+    
+    #vladphoto {
+      position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 37px;
+    top: 1224px;
+    border-radius: 50%;
+    background-image: url(https://i.ibb.co/GxMVrqm/2022-02-27-130259.png);
+    }
+    
+    #vas {
+      position: absolute;
+    width: 378px;
+    height: 60px;
+    left: 167px;
+    top: 1387px;
+    }
+    
+    #vasmi {
+      position: absolute;
+    width: 274px;
+    height: 27px;
+    left: 167px;
+    top: 1471px;
+    
+    }
+    
+    #vasphoto {
+      position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 37px;
+    top: 1400px;
+    border-radius: 50%;  
+    background-image: url(https://i.ibb.co/7yR0vLg/2022-02-27-125717.png);
+    }
+    
+    #workw {
+      position: absolute;
+    width: 440px;
+    height: 44px;
+    left: 39px;
+    top: 1707px;
+    
+    font-family: Faktum Test;
+    font-size: 36px;
+    line-height: 45px;
+    
+    }
+    
+    #workwdsc {
+      position: absolute;
+    width: 422px;
+    height: 38px;
+    left: 39px;
+    top: 1768px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 22px;
+    }
+    
+    #username {
+    
+    position: absolute;
+    left: 39px;
+    top: 1863px;
+    }
+    
+    #uemail {
+    position: absolute;
+    left: 39px;
+    top: 1919px;
+    }
+    
+    #uproject {
+      position: absolute;
+    left: 39px;
+    top: 1975px;
+    }
+    
+    #send {
+      position: absolute;
+    width: 160px;
+    height: 44px;
+    left: 36px;
+    top: 2042px;
+    background: #0063A3;
+    border-radius: 30px;
+    color: white;
+    font-family: Faktum Test;
+    }
+    
+    #dsvllp-title {
+      position: absolute;
+    width: 276px;
+    height: 40px;
+    left: 873px;
+    top: 1863px;
+    font-weight: 700;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 20px;
+    }
+    
+    #dsvllp-address {
+      position: absolute;
+    width: 343px;
+    height: 113px;
+    left: 873px;
+    top: 1893px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 32px;
+    }
+    
+    #phone {
+      position: absolute;
+    width: 343px;
+    height: 113px;
+    left: 873px;
+    top: 2033px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 32px;
+    }
+    
+    #email {
+      
+    position: absolute;
+    width: 343px;
+    height: 37px;
+    left: 873px;
+    top: 2061px;
+    
+    font-weight: 700;
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #0063A3;
+    }
+    
+    #rights {
+      position: absolute;
+    width: 295px;
+    height: 219px;
+    left: 148px;
+    top: 2328px;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 22px;
+        color: #000000;
+        opacity: 0.4;
+    }
+    
+    #logoog {
+    position: absolute;
+    width: 63.74px;
+    height: 81px;
+    left: 38px;
+    top: 2334px;
+    background-image: url(https://i.ibb.co/zFzNpmn/2022-02-27-121153.png);
+    }
+    
+    #dsgro {
+      position: absolute;
+    width: 140px;
+    height: 50px;
+    left: 924px;
+    top: 2319px;
+    
+    font-family: Faktum Test;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    
+    
+    color: #222222;
+    }
+    
+    #pp {
+      
+    position: absolute;
+    width: 110px;
+    height: 25px;
+    left: 1049px;
+    top: 2319px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+    
+    
+    color: #222222;
+    }
+    
+    #disclaimer {
+      position: absolute;
+    width: 88px;
+    height: 27px;
+    left: 1199px;
+    top: 2318px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+    
+    
+    color: #222222;
+    }
+    
+    #login {
+      position: absolute;
+    width: 41px;
+    height: 20px;
+    left: 1334px;
+    top: 2319px;
+    
+    font-family: Faktum Test;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #222222;
+    }
+    
+    #rec31 {
+      position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1392px;
+    top: 2322px;
+    
+    border: 1px solid #222222;
+    box-sizing: border-box;
+    border-radius: 5px 5px 1px 1px;
+    }
+    
+    #rec32 {
+      position: absolute;
+    width: 14px;
+    height: 9px;
+    left: 1389px;
+    top: 2329px;
+    
+    border: 1px solid #222222;
+    box-sizing: border-box;
+    border-radius: 1px;
+    }
+    
+    #letter_M_bot {
+      position: absolute;
+    width: 24px;
+    height: 18px;
+    left: 1378px;
+    top: 2383px;
+    
+    font-weight: 700;
+    font-size: 30px;
+    }
+    
+    #iin {
+      position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1336px;
+    top: 2389px;
+    background: #0063A3;
+    border-radius: 1px;
+    }
+    
+    #iin_I {
+      position: absolute;
+    width: 3px;
+    height: 10px;
+    left: 1340px;
+    top: 2396px;
+    background: white;
+    }
+    
+    #iin_O {
+      position: absolute;
+    width: 3px;
+    height: 3px;
+    left: 1340px;
+    top: 2392px;
+    background: white;
+    border-radius: 50%
+    
+    }
+    
+    #iin_N {
+      position: absolute;
+    width: 9px;
+    height: 10px;
+    left: 1344px;
+    top: 2386px;
+    color: white;
+    font-family:Faktum Test;
+    font-size: 20px;
+    }
+    
