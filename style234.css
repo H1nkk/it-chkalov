@@ -758,3 +758,105 @@ html {
     font-size: 20px;
     }
     
+    #strel55 {
+      position: absolute;
+    width: 1.5px;
+    height: 20px;
+    left: 1394.5px;
+    top: 1260px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    }
+    
+    #strel56 {
+        position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1389.69px;
+        top: 1268.75px;
+        background: black;
+        border-radius: 5px;
+        transform: rotate(-45deg);
+    }
+    
+    #strel57 {
+    position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1400.12px;
+        top: 1268.75px;
+        background: black;
+        border-radius: 5px;
+        transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+    }
+    
+    #strel45 {
+      position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1390.69px;
+        top: 1097.75px;
+        background: black;
+        border-radius: 5px;
+        transform: rotate(-45deg);
+    }
+    
+    #strel46 {
+      position: absolute;
+    width: 1.5px;
+    height: 20px;
+    left: 1394.5px;
+    top: 1089px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    }
+    
+    #strel47 {
+    position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1400.12px;
+        top: 1096.75px;
+        background: black;
+        border-radius: 5px;
+        transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+    }
+    
+    #strel65 {
+          position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1389.69px;
+        top: 1447.75px;
+        background: black;
+        border-radius: 5px;
+        transform: rotate(-45deg)
+    }
+    
+    #strel66 {
+      position: absolute;
+    width: 1.5px;
+    height: 20px;
+    left: 1394.5px;
+    top: 1438px;
+    
+    background: black;
+    border-radius: 5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    }
+    
+    #strel67 {
+     
+    position: absolute;
+        width: 1.5px;
+        height: 12.73px;
+        left: 1400.12px;
+        top: 1447.75px;
+        background: black;
+        border-radius: 5px;
+        transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+    }
